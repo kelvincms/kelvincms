@@ -1,6 +1,6 @@
-# Hey, I'm Kelvin
+# Hey
 
-I'm a Computer Engineer from UNIPAMPA, and currently a Master's student in Microelectronics at UFRGS. My main focus right now is on Learned Image Compression (LIC), working with autoencoder-based architectures and latent-space inference for classification tasks. On the hardware side, I've been getting hands-on with the full ASIC design flow (RTL synthesis, physical layout, all the way to GDSII) through my Master's coursework and research.
+My name is Kelvin, I'm a Computer Engineer from UNIPAMPA, and currently a Master's student in Microelectronics at UFRGS. My main focus right now is on Learned Image Compression (LIC), working with autoencoder-based architectures and latent-space inference for classification tasks. On the hardware side, I've been getting hands-on with the full ASIC design flow (RTL synthesis, physical layout, all the way to GDSII) through my Master's coursework and research.
 
 Before going deep into hardware and ML research, I spent a few years as a Full-Stack developer, building web platforms at Embrapa and TcheComp, and doing applied ML research in video coding (AV1) for three years at UNIPAMPA for my undergrad thesis.
 
